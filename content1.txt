@@ -1,0 +1,41 @@
+commit 4da61a3a4ad84e8c85fe7268c8c10e1a743af17e
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:55:23 2016 -0400
+
+    Arregle el error de los sitios web
+
+commit 658d6f52b82dc418a10705cd64cf94d7308a2b4b
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:42:50 2016 -0400
+
+    Agregue mi porafolio
+
+commit 810844d28698122cdc2a03ee8484349f9be908f9
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:40:22 2016 -0400
+
+    Ahora agregue algo de info de no se que XD
+
+commit f9c4921177e625b50582397f3c1cb5093c8501f0
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:36:58 2016 -0400
+
+    Agregue redes sociales
+
+commit 5bccb57aeb4c4812a1b61901cd7ab2f3e2f31bc4
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:22:39 2016 -0400
+
+    Puse la info de mi perfil
+
+commit fc0e3b8d84b6a827f0fb67dd359fb77f2979fed3
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:20:05 2016 -0400
+
+    Subi foto de perfil y mi nombre
+
+commit 2ec12a3e4b3c340e7954fd371ffa06007d97afe6
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 16:12:41 2016 -0400
+
+    Estos son los archivos de mi portafolio
