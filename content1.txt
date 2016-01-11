@@ -1,3 +1,21 @@
+commit 3490b81683051688cd36203f1357d7543234007a
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 18:06:53 2016 -0400
+
+    Le cambie el color al background
+
+commit 88c738c48aa79cb63f0c7a8662cb6a5aaa2acd00
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 17:58:26 2016 -0400
+
+    Cambie el titulo
+
+commit 487edab2adf47d55ade011606ab8bd5eedbe125c
+Author: Israel De Castro <fulanito203@gmail.com>
+Date:   Fri Jan 8 17:54:47 2016 -0400
+
+    Reguarde los commits
+
 commit 4da61a3a4ad84e8c85fe7268c8c10e1a743af17e
 Author: Israel De Castro <fulanito203@gmail.com>
 Date:   Fri Jan 8 16:55:23 2016 -0400
